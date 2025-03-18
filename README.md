@@ -26,7 +26,8 @@ This solution helps simplify the shutdown process for users who face slow device
    - Select **"Pin to taskbar"**.
 3. Once pinned, you can click the button in the taskbar to shut down the computer immediately.
 
-**Warning**: Do not double-click the program directly without pinning it to the taskbar first, as it will shut down your computer immediately.
+> [!WARNING]  
+> Do not double-click the program directly without pinning it to the taskbar first, as it will shut down your computer immediately.
 
 ## Video Tutorial
 
@@ -73,4 +74,5 @@ If you'd like to contribute to this project, please follow these steps:
 - **Published on GitHub**: Tuesday, March 18, 2025
 
 
-**Note**: This project was developed using PowerShell and is aimed at users who face issues shutting down their devices quickly. **You must pin the program to the taskbar before running it**, as running it directly will shut down your computer immediately.
+> [!NOTE]  
+> This project was developed using PowerShell and is aimed at users who face issues shutting down their devices quickly. **You must pin the program to the taskbar before running it**, as running it directly will shut down your computer immediately.
